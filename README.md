@@ -21,4 +21,4 @@ Arduino বা অন্য AVR ভিত্তিক মাইক্রোক�
 ### উদাহরণ:
 
 ```bash
-hexc.exe firmware.hex --define-name=bootloader --verbose
+hexc.exe firmware.hex --define-name=header --verbose
